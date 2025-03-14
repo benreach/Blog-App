@@ -33,7 +33,7 @@ function Homepage() {
             viewBox="0 0 200 200"
             width={150}
             height={150}
-            className="text-sm tracking-widest animatedButton"
+            className="text-sm tracking-widest animatedButton animate-spin"
             stroke="blue"
             strokeWidth={2}
           >
